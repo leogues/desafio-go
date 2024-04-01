@@ -13,20 +13,15 @@ Obs: Pelos tests que fiz até 100.000.000 a versão com sort era superior ao map
 
 #### Tempo de execução, 10.000:
 
-- Versão Base: 0.09100 ns/op
+- Versão Base: 0.09738 ns/op
 - Versão Implementada: 0 ns/op
 
 #### Tempo de execução, 100.000:
 
-- Versão Base: 8951554500 ns/op 3214136 B/op
-- Versão Implementada: 0.0009995 ns/op
+- Versão Base: 8981523400 ns/op
+- Versão Implementada: 0.0009999 ns/op
 
 #### Tempo de execução, 1.000.000:
 
 - Versão Base: ??? ns/op
-- Versão Implementada: 0.008499 ns/op
-
-#### Tempo de execução, 10.000.000:
-
-- Versão Base: ??? ns/op
-- Versão Implementada: 1156666300 ns/op
+- Versão Implementada: 0.008999 ns/op
